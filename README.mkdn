@@ -1,4 +1,4 @@
-LineageOS
+GenesisOS
 ===========
 
 Getting started
