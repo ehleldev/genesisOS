@@ -1,0 +1,3 @@
+add_lunch_combo genesis_star2lte-user
+add_lunch_combo genesis_star2lte-userdebug
+add_lunch_combo genesis_star2lte-eng
